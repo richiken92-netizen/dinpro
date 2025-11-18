@@ -1,8 +1,7 @@
 
 @font-face {
     font-family: 'DINPro';
-    src: url('dinpro.woff2') format('woff2'),
-         url('dinpro.woff') format('woff');
+    src: url('https://github.com/richiken92-netizen/dinpro/blob/main/dinpro.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 }
